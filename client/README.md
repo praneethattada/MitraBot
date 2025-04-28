@@ -111,7 +111,7 @@ Contributions are what make the open-source community such a fantastic place to 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-
+Chakradhar - iliketocodetrue@gmail.com
 Dhrumil - dhrumil1612@Icloud.com
 Anthony-
 
