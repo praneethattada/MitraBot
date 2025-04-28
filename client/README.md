@@ -112,9 +112,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 Chakradhar - iliketocodetrue@gmail.com
-Dhrumil - dhrumil1612@Icloud.com
-Anthony-
-
+Praneeth Attada - praneethattada18@gmail.com
 
 ---
 This README uses Markdown for formatting. For more details on how to use Markdown, check out [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
