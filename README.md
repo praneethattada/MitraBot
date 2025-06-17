@@ -72,7 +72,6 @@ Make sure your backend is running on a port (e.g., `localhost:8000`) that your f
 ---
 
 
----
 
 ## 🔮 Future Improvements
 
@@ -97,11 +96,6 @@ Pull requests are welcome!
    `git push origin feature/YourFeature`
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [`LICENSE`](./LICENSE) file for details.
 
 ---
 
