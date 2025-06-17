@@ -2,10 +2,8 @@
 
 MitraBot is a compassionate AI-powered mental health chatbot designed to offer support, self-care tools, and a safe conversational space. Built with full-stack technologies, MitraBot leverages modern web frameworks, databases, and AI integrations to deliver accessible emotional assistance for individuals without easy access to mental health professionals.
 
----
-## 🎥 Demo
+--
 
-[Click here to watch the demo](demo/mitra demo.mp4)
 ## 🌟 Features
 
 - 💬 **Interactive Chatbot Interface** – Conversational UI with natural language understanding.
